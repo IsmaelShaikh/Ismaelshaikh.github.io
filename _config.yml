@@ -1,3 +1,5 @@
 name: web programming
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+# Google Analytics
+google_analytics: G-LW8YR7YCCE
